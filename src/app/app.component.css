@@ -1,3 +1,9 @@
 h3{
     color: chartreuse;
 }
+
+hr{
+    color: rgb(0, 0, 0);
+    height:  10px;
+    fill: lawngreen;
+}
